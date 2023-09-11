@@ -11,8 +11,8 @@ create table Pedidos(
 );
 
 
-#RESPOSTA
 
+#RESPOSTA
 #A tabela "pedidos" ela não se encontra na segunda forma normal(2FN), devido ser necessário 
 #do atributo "Produto do Pedido" em relação a chave primária
 #Caso fosse necessário teria que separar em duas tabelas, como foi feito um exemplo do professor.
